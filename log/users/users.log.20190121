@@ -1,0 +1,2 @@
+2019-01-21 14:43:30,328 users_views.py[line:63] DEBUG RegistHandle: insert user start, user[18866668888]
+2019-01-21 14:43:30,340 users_views.py[line:71] DEBUG RegistHandle: regist successfully

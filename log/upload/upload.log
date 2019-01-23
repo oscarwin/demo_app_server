@@ -1,0 +1,6 @@
+2019-01-22 15:47:00,830 upload_views.py[line:40] DEBUG UploadFileHandle start
+2019-01-22 15:47:00,830 upload_views.py[line:53] DEBUG UploadFileHandle: save image path: /data/demo/static/image/
+2019-01-22 15:49:24,557 upload_views.py[line:40] DEBUG UploadFileHandle start
+2019-01-22 15:49:24,557 upload_views.py[line:53] DEBUG UploadFileHandle: save image path: /data/demo/static/image/
+2019-01-22 16:13:19,512 upload_views.py[line:40] DEBUG UploadFileHandle start
+2019-01-22 16:13:19,512 upload_views.py[line:53] DEBUG UploadFileHandle: save image path: /data/demo/static/image/
