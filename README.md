@@ -1,2 +1,2 @@
-# demo_app_server
+# simple_app_server
 a simple app server create by tornado
